@@ -1,0 +1,102 @@
+{
+  "document_name": "Statement of Net Worth",
+  "prepared_for": "client's_name",
+  "date_created": "date_action_commenced",
+
+  "family_data": {
+    "plaintiff_fname": "",
+    "plaintiff_mname": "",
+    "plaintiff_lname": "",
+    "plaintiff_dob": "",
+    "plaintiff_address": "",
+    "plaintiff_occupation": "",
+    "plaintiff_employer": "",
+
+    "defendant_fname": "",
+    "defendant_mname": "",
+    "defendant_lname": "",
+    "defendant_dob": "",
+    "defendant_address": "",
+    "defendant_occupation": "",
+    "defendant_employer": "",
+
+    "date_married": "",
+    "num_children_prior_marriage": "",
+    "children_prior_marriage": [{"name1": "", "dob1": ""},{"name_x": "", "dob_x": ""}],
+    "custody_children_prior_marriage": ""
+  },
+
+  "monthly_expenses": {
+    "mortgage_rent": "",
+    "heloc_mortgage2": "",
+    "renter_homeowner_insurance": "",
+    "electric": "",
+    "fuel_oil_gas": "",
+    "internet_cable": "",
+    "mobile_phone": "",
+    "home_phone": "",
+    "home_security": "",
+    "water_sewer": "",
+    "groceries": "",
+    "wardrobe_clothing": "",
+    "household_maintenance": "",
+    "childcare": "",
+    "auto_loan": "",
+    "auto_maintenance": "",
+    "children_extracurricular": "",
+    "education": "",
+    "vacations": "",
+    "entertainment": "",
+    "pets": "",
+    "health_club_gym": "",
+
+    "federal_income_tax": "",
+    "state_income_tax": "",
+    "ss_medicare": "",
+    "num_dependants_claimed_prior_tax_year": "",
+
+    "life_insurance": "",
+    "auto_insurance": "",
+    "medical_insurance": "",
+    "dental_insurance": "",
+    "optical_insurance": "",
+    "other_insurance": "",
+
+    "org_dues": "",
+    "charitable_contributions": "",
+
+    "child_support_prior": "",
+    "alimony_prior": "",
+    "business": ""
+
+  },
+
+  "gross_income": {
+    "gross_income_w2": "",
+    "investment_income": "",
+    "workers_comp": "",
+    "disability_benefits": "",
+    "ss_benefits": "",
+    "public_assistance": "",
+    "food_stamps": "",
+    "veterans_benefits": "",
+    "pension_retirement": "",
+    "annuities": "",
+    "maintenance_child_support": "",
+    "household_member_annual_income": [{"name1": "", "salary1": ""}],
+    "other_income": ""
+
+  },
+
+  "assets": {
+    "cash": [{"location1": "", "source1": "", "amount_as_of_commencement": "", "current_amount": ""}],
+    "checking_accounts": [{"institution_name1": "", "account_num1": "", "title_holder1": "", "date_opened1": "", "balance_as_of_commencement": "", "balance_amount": "" }],
+    "savings_accounts": [{"institution_name1": "", "account_num1": "", "title_holder1": "", "account_type1": "", "date_opened1": "", "balance_as_of_commencement": "", "balance_amount": "" }],
+    "real_estate": [{"address1": "", "description1": "", "title_holder1": "", "date_acquisition1": "", "original_price1": "", "source_acquisition_funds1": "", "amount_owed": "", "market_value": ""}],
+    "retirement_accounts": [{"description_type": "","location1": "", "source1": "", "date_acquisition1": "", "source_acquisition_funds1": "", "unpaid_liens": "", "value_as_of_commencement": "", "value_current": ""}],
+    "vehicles": [{"type1": "", "description1": "", "make1": "", "model1": "", "title_owner1": "", "date_acquisition1": "", "original_price1": "", "source_acquisition_funds1": "", "amount_owed": "", "value_as_of_commencement": "", "value_current": ""}],
+     "business_interests": [{"business_address1": "", "business_name1":  "", "business_type1": "", "percentage_interest1": "", "date_acquisition1": "", "original_price1": "", "source_acquisition_funds1": "", "business_net_worth": "", "misc": ""}],
+    "other_misc_assets": ""
+  }
+
+}
